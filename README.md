@@ -15,4 +15,4 @@ Instead of random mixing:
 
 ## Status
 Initial implementation and experiments in progress.
-Paper draft available in 'draft_paper.md'
+Paper draft available in `draft_paper.md`
